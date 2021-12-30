@@ -1,4 +1,4 @@
-# make
+# How to `make` it?
 Makefile
 form `https://makefiletutorial.com`
 
